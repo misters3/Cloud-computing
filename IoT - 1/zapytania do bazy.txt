@@ -1,0 +1,5 @@
+insert into [dbo].[People]
+values ('Maciej','Kowalski');
+
+insert into [dbo].[People]
+values ('Zbyszek','Bąk');  
