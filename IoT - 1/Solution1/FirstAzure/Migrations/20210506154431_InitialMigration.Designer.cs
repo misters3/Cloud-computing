@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FirstAzure.Migrations
 {
     [DbContext(typeof(PeopleDb))]
-    [Migration("20210504203135_InitialMigration")]
+    [Migration("20210506154431_InitialMigration")]
     partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
